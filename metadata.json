@@ -1,0 +1,6 @@
+{
+  "name": "Playvear Lab",
+  "description": "AI Video Studio powered by HeyGen and Fal.ai to transform portrait photos and voice recordings into lifelike talking presenter videos.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
